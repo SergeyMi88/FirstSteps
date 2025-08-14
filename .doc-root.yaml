@@ -1,7 +1,8 @@
-title: 1. Первые шаги
+title: Первые шаги
 optionalCategoryIndex: true
 language: ru
-supportedLanguages: []
+supportedLanguages:
+  - ru
 properties: []
 description: Первые шаги в программе
 style: purple-orange
