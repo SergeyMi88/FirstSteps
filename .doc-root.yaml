@@ -1,6 +1,9 @@
 title: 1. Первые шаги
 optionalCategoryIndex: true
+language: ru
 supportedLanguages: []
 properties: []
 description: Первые шаги в программе
 style: purple-orange
+group: tslab
+order: 1
